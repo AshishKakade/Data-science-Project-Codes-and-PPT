@@ -1,0 +1,17 @@
+PPT_PythonCode_KagglePredictions_Deployment
+
+
+At the end of the project we have to submit these:
+
+1. Final presentation 
+2. Python Code 
+3. Submission of output predictions in Kaggle 
+4. Deployment (may be Flask) 
+
+
+Every Meeting of P36
+1. Presentation - on till-date completion
+2. Python codes - may need to show codes
+
+Regular Submissions
+1. Kaggle - Keep submitting output after getting predictions for every model
